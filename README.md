@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sumit-Sahni
 - 👀 I’m interested in Front-end Development
-- 🌱 I’m currently learning UX/UI and backend Development
+- 🌱 I’m currently learning UX/UI design and backend Development
 - 💞️ I’m looking to collaborate on great projects
 - 📫 How to reach me ... Sumit.123sahni@gmail.com
 
