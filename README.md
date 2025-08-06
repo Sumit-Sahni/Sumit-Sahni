@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Sumit-Sahni  wwww.sumitsahni.in
+- 👋 Hi, I’m @Sumit-Sahni  www.sumitsahni.in
 - 👀 I’m interested in Software Development/Network Eng
 - 🌱 I’m currently learning Advance Software Dev & Data Relatated Field
 - 💞️ I’m looking to collaborate on great projects
