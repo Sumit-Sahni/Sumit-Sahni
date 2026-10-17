@@ -4,7 +4,7 @@
 
 💻 Technical Support Engineer | Aspiring DevOps Engineer | Full Stack Developer
 
-- 💼 **Former Technical Support Engineer at Microsoft**, with experience troubleshooting enterprise infrastructure, Active Directory, DNS, DHCP, TCP/IP, VPN, and network connectivity issues.
+- 💼 Technical Support Engineer at Microsoft**, with experience troubleshooting enterprise infrastructure, Active Directory, DNS, DHCP, TCP/IP, VPN, and network connectivity issues.
 - ☁️ Interested in AWS, Cloud Computing, DevOps, CI/CD, Infrastructure as Code (IaC), and automation.
 - 🔐 Passionate about network security, infrastructure reliability, and solving complex technical problems.
 - 🌱 Continuously learning cloud technologies, Linux, scripting, and modern software development practices.
